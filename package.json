@@ -1,7 +1,7 @@
 {
-  "name": "tsdown-starter",
+  "name": "zerodom",
   "version": "0.0.0",
-  "description": "A starter for creating a TypeScript package.",
+  "description": "DOM implementation in zig",
   "type": "module",
   "license": "MIT",
   "homepage": "https://github.com/author/library#readme",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/author/library.git"
   },
-  "author": "Author Name <author.name@mail.com>",
+  "author": "gkiely",
   "files": [
     "dist"
   ],
