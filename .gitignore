@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+v8-deopt-viewer
+
+# Code
+node_modules
+dist
+dist-ssr
+*.local
+tsconfig.tsbuildinfo
+tsconfig.node.tsbuildinfo
+tsconfig.client.tsbuildinfo
+tsconfig.server.tsbuildinfo
+coverage
+coverage-ts
+.type-coverage
+.eslintcache
+packagehash.txt
+.wrangler
+server/.wrangler
+server/.dev.vars
+server/v3
+stats.html
+vite.config.ts.*.mjs
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# E2E
+/test-results/
+/playwright-report/
+/playwright/.cache/
+storageState.json
+screenshot.png
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
